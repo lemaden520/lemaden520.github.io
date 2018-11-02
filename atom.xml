@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jning</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://pinkplan.cn/"/>
+  <updated>2018-11-02T08:34:40.192Z</updated>
+  <id>https://pinkplan.cn/</id>
+  
+  <author>
+    <name>Liu ning</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>World</title>
+    <link href="https://pinkplan.cn/2018/11/02/world/"/>
+    <id>https://pinkplan.cn/2018/11/02/world/</id>
+    <published>2018-11-02T08:34:40.000Z</published>
+    <updated>2018-11-02T08:34:40.192Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://pinkplan.cn/2018/11/02/hello-world/"/>
+    <id>https://pinkplan.cn/2018/11/02/hello-world/</id>
+    <published>2018-11-02T08:15:00.003Z</published>
+    <updated>2018-11-02T08:15:00.003Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
