@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pinkplan.cn/"/>
-  <updated>2018-11-02T11:19:56.256Z</updated>
+  <updated>2018-11-02T11:27:49.697Z</updated>
   <id>https://pinkplan.cn/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的新文章</title>
+    <link href="https://pinkplan.cn/2018/11/02/wo-de-xin-wen-zhang/"/>
+    <id>https://pinkplan.cn/2018/11/02/wo-de-xin-wen-zhang/</id>
+    <published>2018-11-02T11:25:16.000Z</published>
+    <updated>2018-11-02T11:27:49.697Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#有些&lt;/p&gt;
+&lt;p&gt;##还有些&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://pinkplan.cn/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown范文示例</title>
@@ -37,28 +63,6 @@
     
     
       <category term="Markdown 例子" scheme="https://pinkplan.cn/tags/Markdown-%E4%BE%8B%E5%AD%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://pinkplan.cn/2018/11/02/hello-world/"/>
-    <id>https://pinkplan.cn/2018/11/02/hello-world/</id>
-    <published>2018-11-02T08:15:00.003Z</published>
-    <updated>2018-11-02T08:15:00.003Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
     
   </entry>
   
