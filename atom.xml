@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Jning</title>
   
-  
+  <subtitle>����Ա֮·</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pinkplan.cn/"/>
-  <updated>2018-11-02T08:34:40.192Z</updated>
+  <updated>2018-11-02T10:38:21.176Z</updated>
   <id>https://pinkplan.cn/</id>
   
   <author>
@@ -17,16 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>World</title>
+    <title>Markdown����ʾ��</title>
     <link href="https://pinkplan.cn/2018/11/02/world/"/>
     <id>https://pinkplan.cn/2018/11/02/world/</id>
     <published>2018-11-02T08:34:40.000Z</published>
-    <updated>2018-11-02T08:34:40.192Z</updated>
+    <updated>2018-11-02T10:38:21.176Z</updated>
     
     <summary type="html">
     
+      
+      
+        
+        
+          &lt;h1 id=&quot;��ӭʹ��-Cmd-Markdown-�༭�K���&quot;&gt;&lt;a href=&quot;#��ӭʹ��-Cmd-Markdown-�༭�K���&quot; class=&quot;headerlink&quot; title=&quot;��ӭʹ�� Cmd Markdown
+        
+      
+    
     </summary>
     
+    
+      <category term="Markdown ����" scheme="https://pinkplan.cn/tags/Markdown-%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
     
   </entry>
   
