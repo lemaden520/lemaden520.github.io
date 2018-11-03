@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pinkplan.cn/"/>
-  <updated>2018-11-02T13:58:17.772Z</updated>
+  <updated>2018-11-03T02:18:08.536Z</updated>
   <id>https://pinkplan.cn/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C语言动态数组分配算法演示</title>
+    <link href="https://pinkplan.cn/2018/11/03/c-dong-tai-nei-cun-fen-pei/"/>
+    <id>https://pinkplan.cn/2018/11/03/c-dong-tai-nei-cun-fen-pei/</id>
+    <published>2018-11-03T01:25:00.000Z</published>
+    <updated>2018-11-03T02:18:08.536Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;C动态数组算法演示&quot;&gt;&lt;a href=&quot;#C动态数组算法演示&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="https://pinkplan.cn/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="数组" scheme="https://pinkplan.cn/tags/%E6%95%B0%E7%BB%84/"/>
+    
+      <category term="算法" scheme="https://pinkplan.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="C语言" scheme="https://pinkplan.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
   
   <entry>
     <title>幸福的获得</title>
